@@ -1,10 +1,10 @@
 # Overview of the timeline
 
-**14th Dec. - 04th Jan.**: project choice, dataset pre-processing, maybe first simple model and objective
+**14th Dec. - 4th Jan.**: project choice, dataset pre-processing, maybe first simple model and objective
 
 **4th Jan.**: Peer review session, each group present their status to another group
 
-**04.01 - 25.01**: Architecture, fine-tuning, preparation presentation
+**4th Jan. - 25th Jan.**: Architecture, fine-tuning, preparation presentation
 
 # To Do list
 ## Before meeting with Luca on 18th Dec. 16:30
