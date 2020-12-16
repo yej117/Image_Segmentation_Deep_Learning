@@ -7,4 +7,7 @@ The aim of the project is to finish the challenge [38-Cloud: Cloud Segmentation 
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
 * [Using Machine Learning to “Nowcast” Precipitation in High Resolution](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)
 * [A Neural Weather Model for Eight-Hour Precipitation Forecasting](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
+
 https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1
+
+*Also see the notebooks for some applications
