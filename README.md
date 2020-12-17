@@ -7,6 +7,10 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 
 *Also see the notebooks for some applications
 
+* [Background Paper] (https://arxiv.org/pdf/1605.07648.pdf)
+* [Keras Implementation, Deep Segmentation] (https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
+* https://github.com/snf/keras-fractalnet/blob/master/src/fractalnet.py
+
 ## Notes for some possible further applications
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
 * [Using Machine Learning to “Nowcast” Precipitation in High Resolution](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)
