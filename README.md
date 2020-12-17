@@ -5,7 +5,7 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 * [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
 * [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
 
-<u>Also see the notebooks for some applications</u>
+*Also see the notebooks for some applications
 
 ## Notes for some possible further applications
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
