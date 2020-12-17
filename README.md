@@ -7,9 +7,10 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 
 *Also see the notebooks for some applications
 
-* [Background Paper](https://arxiv.org/pdf/1605.07648.pdf)
-* [Keras Implementation, Deep Segmentation](https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
-* [FractalNet implementation in Keras](https://github.com/snf/keras-fractalnet/blob/master/src/fractalnet.py)
+## Possible Algorithms
+* [Background Paper about FractalNet](https://arxiv.org/pdf/1605.07648.pdf)
+* [Keras Implementation, A repository for Deep Segmentation with several CNNs for semantic segmentation (U-Net, SegNet, ResNet, FractalNet)](https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
+* [A Repository for FractalNet implementation in Keras](https://github.com/snf/keras-fractalnet/blob/master/src/fractalnet.py)
 
 ## Notes for some possible further applications
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
