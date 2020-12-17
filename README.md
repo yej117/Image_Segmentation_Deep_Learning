@@ -12,6 +12,11 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 * [A repository for Deep Segmentation with several CNNs for semantic segmentation (U-Net, SegNet, ResNet, FractalNet) using Keras](https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
 * [A Repository for FractalNet implementation in Keras](https://github.com/snf/keras-fractalnet/blob/master/src/fractalnet.py)
 
+## Some interesting notebooks
+* Different Kaggle challenge: [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
+  - Unet: [Link 1](https://www.kaggle.com/hotuanlong/u-net/notebook), [Link 2](https://www.kaggle.com/gargkaman7/semantic-segemntation), [Link 3](https://www.kaggle.com/uysimty/carvana-image-masking#Model)
+
+
 ## Notes for some possible further applications
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
 * [Using Machine Learning to “Nowcast” Precipitation in High Resolution](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)
