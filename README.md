@@ -26,5 +26,5 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 
 
 ## Others 
-Simple guide for anyone who is not familiar with markdown file ([markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)).
+Simple guide for anyone who is not familiar with markdown file: [markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
