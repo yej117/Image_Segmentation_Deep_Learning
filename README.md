@@ -5,7 +5,7 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 * [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
 * [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
 
-*Also see the notebooks for some applications
+*Also see the notebooks for some applications*
 
 ## Background Knowledge
 * [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
@@ -19,9 +19,12 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 * Different Kaggle challenge: [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
   - Unet: [Link 1](https://www.kaggle.com/hotuanlong/u-net/notebook), [Link 2](https://www.kaggle.com/gargkaman7/semantic-segemntation), [Link 3](https://www.kaggle.com/uysimty/carvana-image-masking#Model)
 
-
 ## Notes for some possible further applications
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
 * [Using Machine Learning to “Nowcast” Precipitation in High Resolution](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)
 * [A Neural Weather Model for Eight-Hour Precipitation Forecasting](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
+
+
+## Others 
+Simple guide for anyone who is not familiar with markdown file ([markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)).
 
