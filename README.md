@@ -7,6 +7,9 @@ The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
 
 *Also see the notebooks for some applications
 
+## Background Knowledge
+* [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
+
 ## Possible Algorithms
 * [Background Paper about FractalNet](https://arxiv.org/pdf/1605.07648.pdf)
 * [A repository for Deep Segmentation with several CNNs for semantic segmentation (U-Net, SegNet, ResNet, FractalNet) using Keras](https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
