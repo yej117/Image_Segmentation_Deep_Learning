@@ -9,7 +9,7 @@
 # To Do list
 ## Before Peer Review on 4th Jan. 
 Main task: 
-Find an **_intermediate target_**. It sounds a bit too hard to reach the target of cloud segmentation in six weeks.
+Find an **_intermediate target_**. It sounds a bit too hard to reach the target of cloud segmentation in six weeks.\\
 So before the peer review, we should _choose the dataset_ and _have objectives_.
 
 1. Look into different training dataset 
