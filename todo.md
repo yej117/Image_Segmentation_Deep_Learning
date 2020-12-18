@@ -24,6 +24,6 @@ So before the peer review, we should _choose the dataset_ and _have objectives_.
 ## Before meeting with Luca on 18th Dec. 16:30
 - [ ] All: Look into the [Image Segmentation tutorial](https://www.tensorflow.org/tutorials/images/segmentation) with [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) 
 - [ ] EJ: Check how to link Colab with GitHub repository -- simply click the [link](http://colab.research.google.com/github), check the buttom "Private Repositories einschließen", and select this repository
-- [ ] Sebastian: Meeting tools (Zoom link creation)
+- [ ] Sebastian: Meeting tools (Zoom link creation) -- **[Put the link here everytime?](www.)**
 - [ ] Suman: Look into the dataset from Kaggle and give a brief summary
 - [ ] Erwin: Work through the dataset from Kaggle and the possible applications
