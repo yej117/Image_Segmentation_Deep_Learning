@@ -12,7 +12,7 @@ Main task:
 Find an **_intermediate target_**. It sounds a bit too hard to reach the target of cloud segmentation in six weeks.
 So before the peer review, we should _choose the dataset_ and _have objectives_.
 
-1. Look into different training dataset 
+1. Look into different training datasets
 2. Try to train them with some exist networks (for example, revising the [Image Segmentation tutorial](https://www.tensorflow.org/tutorials/images/segmentation) to train the dataset you find) 
 3. List down your findings:
     - Datasets: What you find? How it works with the networks that you used? Any interesting notebooks you find? What might be the challenging part?
