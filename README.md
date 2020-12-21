@@ -1,14 +1,29 @@
-# Cloud_Segmentation_Deep_Learning 
+# Image Segmentation Deep Learning 
 
 This respository is used as the final project for the course "Deep Learning" on [opencampus](https://edu.opencampus.sh/) in the Winter semester 2020/21.
-The aim of the project is to finish the Cloud segmentation challenge on Kaggle.
+
+The aim of this project is to finish the task of image segmentation.
+The cloud segmentation challenge on Kaggle is one of our interests.
 * [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
 * [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
 
 *Also see the notebooks for some applications*
 
-## Background Knowledge
+## Background Knowledge for Image Segmentation
 * [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
+
+## Possible datasets
+** For all: It's interesting to look through the datasets listed down, and please feel free to add what you've searched **
+1. Some challenges on Kaggle:
+  - [Cloud segmentation](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
+  - [Ships in Satellite Imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+  - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) 
+  - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
+2. The [GitHub Repository](https://github.com/chrieke/awesome-satellite-imagery-datasets) collecting some satellite imagery datasets: 
+3. [Image Segmentation tutorial](https://www.tensorflow.org/tutorials/images/segmentation) with [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/%7Evgg/data/pets/)
+4. Open Images 2019 - [Instance Segmentation](https://www.kaggle.com/c/open-images-2019-instance-segmentation/data)
+5. [Segmentation evaluation database](http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/index.html)
+6. [A Large-scale Dataset for Instance Segmentation in Aerial Images](https://captain-whu.github.io/iSAID/dataset.html)
 
 ## Possible Algorithms
 * [Background Paper about FractalNet](https://arxiv.org/pdf/1605.07648.pdf)
