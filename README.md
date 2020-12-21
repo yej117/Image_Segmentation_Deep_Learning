@@ -13,12 +13,12 @@ The cloud segmentation challenge on Kaggle is one of our interests.
 * [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 
 ## Possible datasets
-** For all: It's interesting to look through the datasets listed down, and please feel free to add what you've searched **
+**For all: It's interesting to look through the datasets listed down, and please feel free to add what you've searched**
 1. Some challenges on Kaggle:
-  - [Cloud segmentation](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
-  - [Ships in Satellite Imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
-  - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) 
-  - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
+    - [Cloud segmentation](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
+    - [Ships in Satellite Imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+    - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) 
+    - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
 2. The [GitHub Repository](https://github.com/chrieke/awesome-satellite-imagery-datasets) collecting some satellite imagery datasets: 
 3. [Image Segmentation tutorial](https://www.tensorflow.org/tutorials/images/segmentation) with [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/%7Evgg/data/pets/)
 4. Open Images 2019 - [Instance Segmentation](https://www.kaggle.com/c/open-images-2019-instance-segmentation/data)
