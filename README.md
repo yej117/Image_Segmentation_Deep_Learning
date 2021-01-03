@@ -43,4 +43,8 @@ The cloud segmentation challenge on Kaggle is one of our interests.
 ## Others 
 Simple guide for anyone who is not familiar with markdown file: [markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+## Notebook examples to work from
+https://github.com/yej117/Cloud_Segmentation_Deep_Learning/blob/main/DL_Images.ipynb
+
+
 
