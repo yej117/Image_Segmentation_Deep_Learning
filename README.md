@@ -43,6 +43,4 @@ The cloud segmentation challenge on Kaggle is one of our interests.
 ## Others 
 Simple guide for anyone who is not familiar with markdown file: [markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## Notebook example to work from
-https://colab.research.google.com/drive/1P9cmsymfzZGu0ARg7N7oKx46muchIUfe
 
