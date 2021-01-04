@@ -7,11 +7,12 @@
 **4th Jan. - 25th Jan.**: Architecture, fine-tuning, preparation presentation
 
 Recommendation schedule for deadlines:
-- 9th Jan.: data preprocessing
-- 13th Jan.: image augmentation
-- 17th Jan.: segmentation
-- 22nd Jan.: compiling, validating, testing
+- 9th Jan.: data preprocessing (Sebastian)
+- 13th Jan.: image augmentation (Suman)
+- 17th Jan.: segmentation (Yi-Jie)
+- 22nd Jan.: compiling, validating, testing (Erwin)
 - 24th Jan.: preparation of materials for final presentation
+
 
 # To Do list
 ## Before Peer Review on 4th Jan. 
