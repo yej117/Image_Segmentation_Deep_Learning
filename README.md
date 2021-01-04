@@ -2,12 +2,28 @@
 
 This respository is used as the final project for the course "Deep Learning" on [opencampus](https://edu.opencampus.sh/) in the Winter semester 2020/21.
 
+This project managed to finish the task of image segmentation of the Kaggle Challenge: [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
+*See some example notebooks using UNet:* [Link 1](https://www.kaggle.com/hotuanlong/u-net/notebook), [Link 2](https://www.kaggle.com/gargkaman7/semantic-segemntation), [Link 3](https://www.kaggle.com/uysimty/carvana-image-masking#Model)
+
+
 The aim of this project is to finish the task of image segmentation.
 The cloud segmentation challenge on Kaggle is one of our interests.
 * [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
 * [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
 
 *Also see the notebooks for some applications*
+
+## Dataset
+- Google Drive: right click the shared folder and click on "Add a shortcut to Drive" to make sure you can easily reach the folder
+- Instruction for loading data in Google drive
+```
+from google.colab import drive
+drive.mount('/content/drive')
+%cd /content/drive/MyDrive/DL_project/kaggle/data/
+```
+
+## Data Preprocessing
+
 
 ## Background Knowledge for Image Segmentation
 * [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
@@ -30,9 +46,6 @@ The cloud segmentation challenge on Kaggle is one of our interests.
 * [A repository for Deep Segmentation with several CNNs for semantic segmentation (U-Net, SegNet, ResNet, FractalNet) using Keras](https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
 * [A Repository for FractalNet implementation in Keras](https://github.com/snf/keras-fractalnet/blob/master/src/fractalnet.py)
 
-## Some interesting notebooks
-* Different Kaggle challenge: [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
-  - Unet: [Link 1](https://www.kaggle.com/hotuanlong/u-net/notebook), [Link 2](https://www.kaggle.com/gargkaman7/semantic-segemntation), [Link 3](https://www.kaggle.com/uysimty/carvana-image-masking#Model)
 
 ## Notes for some possible further applications
 * [Optical flow](https://nanonets.com/blog/optical-flow/)
@@ -45,9 +58,6 @@ Simple guide for anyone who is not familiar with markdown file: [markdown cheats
 
 ## Notebook examples to work from
 https://github.com/yej117/Cloud_Segmentation_Deep_Learning/blob/main/DL_Images.ipynb
-
-
-Test
 
 
 
