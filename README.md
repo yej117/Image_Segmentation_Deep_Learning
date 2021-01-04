@@ -15,7 +15,7 @@ The cloud segmentation challenge on Kaggle is one of our interests.
 
 ## Dataset
 - Google Drive: right click the shared folder and click on "Add a shortcut to Drive" to make sure you can easily reach the folder
-- Instruction for loading data in Google drive
+- Instruction for loading data in Google drive to Google Colab
 ```
 from google.colab import drive
 drive.mount('/content/drive')
