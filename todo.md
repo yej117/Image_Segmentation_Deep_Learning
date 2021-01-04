@@ -26,6 +26,6 @@ So before the peer review, we should _choose the dataset_ and _have objectives_.
 - EJ: Check how to link Colab with GitHub repository 
      * add file from github: simply click the [link](http://colab.research.google.com/github), check the buttom "Private Repositories einschließen", and select this repository
      * push the file to github: file > Save a copy in Github
-- Sebastian: Meeting tools (Zoom link creation) -- **[Put the link here everytime?](www.)**
+- Sebastian: Meeting tools (Zoom link creation) -- **[Put the link here everytime?](https://us05web.zoom.us/j/81062250132?pwd=b3Nqc1A3aE9idkJGY2R6NHZHQWhUZz09)**
 - Suman: Look into the dataset from Kaggle and give a brief summary
 - Erwin: Work through the dataset from Kaggle and the possible applications
