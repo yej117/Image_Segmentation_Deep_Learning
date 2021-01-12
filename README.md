@@ -21,7 +21,6 @@ drive.mount('/content/drive')
 ## Possible datasets
 **For all: It's interesting to look through the datasets listed down, and please feel free to add what you've searched**
 1. Some challenges on Kaggle:
-    - [Cloud segmentation](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
     - [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
     - [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
     - [Ships in Satellite Imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
