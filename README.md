@@ -2,16 +2,9 @@
 
 This respository is used as the final project for the course "Deep Learning" on [opencampus](https://edu.opencampus.sh/) in the Winter semester 2020/21.
 
-This project managed to finish the task of image segmentation of the Kaggle Challenge: [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
+This project managed to finish the task of image segmentation of the Kaggle Challenge: [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)<br>
 *See some example notebooks using UNet:* [Link 1](https://www.kaggle.com/hotuanlong/u-net/notebook), [Link 2](https://www.kaggle.com/gargkaman7/semantic-segemntation), [Link 3](https://www.kaggle.com/uysimty/carvana-image-masking#Model)
 
-
-The aim of this project is to finish the task of image segmentation.
-The cloud segmentation challenge on Kaggle is one of our interests.
-* [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
-* [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
-
-*Also see the notebooks for some applications*
 
 ## Dataset
 - Google Drive: right click the shared folder and click on "Add a shortcut to Drive" to make sure you can easily reach the folder
@@ -24,7 +17,6 @@ drive.mount('/content/drive')
 
 ## Data Preprocessing
 
-
 ## Background Knowledge for Image Segmentation
 * [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 
@@ -32,6 +24,10 @@ drive.mount('/content/drive')
 **For all: It's interesting to look through the datasets listed down, and please feel free to add what you've searched**
 1. Some challenges on Kaggle:
     - [Cloud segmentation](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
+    - [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
+    - [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
+
+*Also see the notebooks for some applications*
     - [Ships in Satellite Imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
     - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) 
     - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
