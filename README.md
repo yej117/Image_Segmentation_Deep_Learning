@@ -15,8 +15,6 @@ drive.mount('/content/drive')
 %cd /content/drive/MyDrive/DL_project/kaggle/data/
 ```
 
-## Data Preprocessing
-
 ## Background Knowledge for Image Segmentation
 * [Introduction to Image Segmentation](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 
@@ -26,8 +24,6 @@ drive.mount('/content/drive')
     - [Cloud segmentation](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
     - [38-Cloud: Cloud Segmentation in Satellite Images](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
     - [95-Cloud: Cloud Segmentation on Satellite Images](https://www.kaggle.com/sorour/95cloud-cloud-segmentation-on-satellite-images/version/1)
-
-*Also see the notebooks for some applications*
     - [Ships in Satellite Imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
     - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) 
     - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
