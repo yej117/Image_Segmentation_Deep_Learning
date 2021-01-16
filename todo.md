@@ -7,12 +7,11 @@
 **4th Jan. - 25th Jan.**: Architecture, fine-tuning, preparation presentation
 
 Recommendation schedule for deadlines:
-- 9th Jan.: data preprocessing (Sebastian)
-- 13th Jan.: image augmentation (Suman)
-- 17th Jan.: segmentation (Yi-Jie)
-- 22nd Jan.: compiling, validating, testing (Erwin)
-- 24th Jan.: preparation of materials for final presentation
-
+- [x] 9th Jan.: data preprocessing (Sebastian) - get the dataset uploaded and check whether everything works so that is would be accessible and workable, and maybe also normalising the images
+- [ ] 13th Jan.: image augmentation (Suman) - create more "randomised" images by transformations
+- [ ] 17th Jan.: segmentation (Yi-Jie) - see DL Images.ipynb as reference
+- [ ] 22nd Jan.: compiling, validating, testing (Erwin) - build a model and test statistics, probably extend it with the fractalnet
+- [ ] 24th Jan.: preparation of materials for final presentation
 
 # To Do list
 ## Before Peer Review on 4th Jan. 
