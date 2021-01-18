@@ -51,4 +51,20 @@ Simple guide for anyone who is not familiar with markdown file: [markdown cheats
 https://github.com/yej117/Cloud_Segmentation_Deep_Learning/blob/main/DL_Images.ipynb
 
 
+## Presentation of the final project
+Date: 18th Jan. 2021
+Time: 10 minutes for presentation + 5 minutes for a round of questions
+
+Presentation structure:
+- [ ] Group: who are inside the group
+- [ ] Project: short description of the project and the motivation behind
+- [ ] Tools (optional)
+- [ ] Architecture
+- [ ] Story (optional): attempts, failures, successes
+- [ ] Results 
+- [ ] Baselines - how to measure the performance 
+- [ ] Missing (optional) - is there something you missed to improve in the project?
+- [ ] Future work (optional) - how to improve
+
+Sharing (optional) on the opencampus gitbook: Code, Data and Presentation
 
