@@ -37,6 +37,7 @@ drive.mount('/content/drive')
 * [A repository for Deep Segmentation with several CNNs for semantic segmentation (U-Net, SegNet, ResNet, FractalNet) using Keras](https://github.com/danielelic/deep-segmentation/blob/master/train_fractal_unet.py)
 * [A Repository for FractalNet implementation in Keras](https://github.com/snf/keras-fractalnet/blob/master/src/fractalnet.py)
 * [Introduction about U-Net](https://neurohive.io/en/popular-networks/u-net/)
+* [Origin paper for U-Net](https://arxiv.org/abs/1505.04597)
 
 
 ## Notes for some possible further applications
