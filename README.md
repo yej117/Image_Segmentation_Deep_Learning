@@ -64,7 +64,7 @@ Presentation structure:
 - [x] Architecture
 - [x] Story (optional): attempts, failures, successes
 - [x] Results 
-- [ ] Baselines - how to measure the performance 
+- [ ] Baselines - how to measure the performance? is it good enough?? compare to??
 - [ ] Missing (optional) - is there something you missed to improve in the project?
 - [x] Future work (optional) - how to improve
 
