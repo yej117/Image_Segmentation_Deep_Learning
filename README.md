@@ -58,15 +58,15 @@ Date: 18th Jan. 2021
 Time: 10 minutes for presentation + 5 minutes for a round of questions
 
 Presentation structure:
-- [ ] Group: who are inside the group
-- [ ] Project: short description of the project and the motivation behind
-- [ ] Tools (optional)
-- [ ] Architecture
-- [ ] Story (optional): attempts, failures, successes
-- [ ] Results 
+- [x] Group: who are inside the group
+- [x] Project: short description of the project and the motivation behind
+- [x] Tools (optional)
+- [x] Architecture
+- [x] Story (optional): attempts, failures, successes
+- [x] Results 
 - [ ] Baselines - how to measure the performance 
 - [ ] Missing (optional) - is there something you missed to improve in the project?
-- [ ] Future work (optional) - how to improve
+- [x] Future work (optional) - how to improve
 
 Sharing (optional) on the opencampus gitbook: Code, Data and Presentation
 
